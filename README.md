@@ -18,8 +18,7 @@ This is a simple and efficient todo application that allows users to manage thei
    - Navigate to the "My Todos" section to see all your tasks.
 
 3. **✅ Mark as Completed:**
-   - Check off tasks to mark them as completed. They will be moved to a separate section for completed tasks.
-   - 
+   - Check off tasks to mark them as completed. 
 ---
 
 ## 💻 Running the Project Locally
